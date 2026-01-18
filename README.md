@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **sainiprateek478@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/saini/OneDrive/Desktop/My_Resume%20(1).pdf](file:///C:/Users/saini/OneDrive/Desktop/My_Resume%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
