@@ -23,8 +23,6 @@ A passionate Computer Science Student || Cybersecurity Learner & Research Enthus
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=Prateeksaini12&theme=radical)
 
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateeksaini12&layout=compact&theme=radical)
 
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prateeksaini12&theme=radical&hide_border=true)
