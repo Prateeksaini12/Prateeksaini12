@@ -1,9 +1,10 @@
 # 💫 Hi 👋, I'm Prateek Saini
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="40" height="40" />
 A passionate Computer Science Student || Cybersecuirty Enthusiast ||
 
 # 💫 About Me:
 🔭 I’m currently working on: Cyber-Monitoring dashboard and Emergency routing research paper.<br>👯 I’m looking to collaborate on: Research and cybersecurity related Projects.<br>🌱 I’m currently learning: Java, Data Structures & Algorithms, and cybersecurity tools.<br>🧠 Core interest: Cybersecurity, secure software design, and system-level problem solving<br>🧩 Current focus: Strengthening problem-solving skills while building practical cybersecurity applications
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="40" height="40" />
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
