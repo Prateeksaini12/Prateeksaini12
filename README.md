@@ -23,6 +23,8 @@ A passionate Computer Science Student || Cybersecurity Learner & Research Enthus
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=Prateeksaini12&theme=radical)
 
+## 📊 GitHub Stats Summary
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prateeksaini12&show_icons=true&theme=radical)
 
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prateeksaini12&theme=radical&hide_border=true)
