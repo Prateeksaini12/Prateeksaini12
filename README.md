@@ -25,7 +25,7 @@ A passionate Computer Science Student || Cybersecurity Learner & Research Enthus
 ![GitHub Streak](https://streak-stats.demolab.com?user=Prateeksaini12&theme=radical)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Prateeksaini12&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Prateeksaini12&theme=radical&no-frame=true&margin-w=10)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
