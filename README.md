@@ -1,4 +1,4 @@
-![animation](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
+
 
 # 💫 Hi 👋, I'm Prateek Saini
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="40" height="40" />
