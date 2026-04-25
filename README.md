@@ -8,7 +8,9 @@ A passionate Computer Science Student || Cybersecurity Learner & Research Enthus
 🔭 I’m currently working on: Cyber-Monitoring dashboard and Emergency routing research paper.<br>👯 I’m looking to collaborate on: Research and cybersecurity related Projects.<br>🌱 I’m currently learning: Java, Data Structures & Algorithms, and cybersecurity tools.<br>🧠 Core interest: Cybersecurity, secure software design, and system-level problem solving<br>🧩 Current focus: Strengthening problem-solving skills while building practical cybersecurity applications
 
 <!-- Snake Game Repo View -->
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ## 🌐 Socials:
