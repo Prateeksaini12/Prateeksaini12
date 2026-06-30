@@ -1,6 +1,6 @@
 ![animation](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
-# 💫 Hi 👋, I'm Prateek Saini
+# 💫 Hi 👋, I'm Prateek 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="40" height="40" />
 A passionate Computer Science Student || Cybersecurity Learner & Research Enthusiast ||
 
